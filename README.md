@@ -6,8 +6,7 @@ A simple MERN + Vite application that helps users get an estimated resale price 
 
 ## 🔍 Features
 
-* **Predefined Devices**: Choose from 5 popular smartphone models.
-* **Condition Survey**: Answer 5 multiple-choice questions about power, calls, display, screen replacement, and repair history.
+* **Condition Survey**: Answer 5 questions about power, calls, display, screen replacement, and repair history.
 * **Price Calculation**: A straightforward algorithm deducts fixed amounts for each issue and returns an estimated price.
 * **REST API**: Backend built with Node.js, Express, and hard-coded device data.
 * **Modern Frontend**: React + Vite + Tailwind for a fast, responsive UI.
@@ -28,13 +27,11 @@ A simple MERN + Vite application that helps users get an estimated resale price 
 
 ```bash
 git clone <your-repo-url>
-cd device-valuation-app
 ```
 
 ### 2. Start Backend
 
 ```bash
-cd server
 npm install
 npm run dev
 ```
@@ -44,7 +41,7 @@ npm run dev
 ### 3. Start Frontend
 
 ```bash
-cd client
+cd hellofiClone-Frontend
 npm install
 npm run dev
 ```
