@@ -1,0 +1,102 @@
+ products =  [
+  {
+    "modelName": "Apple iPhone 12",
+    "priceINR": 79900,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/f/f9/IPhone_12_Pro_Graphite.svg"
+  },
+  {
+    "modelName": "Apple iPhone 13",
+    "priceINR": 79900,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b2/IPhone_13_Pro_Max_Blue.svg"
+  },
+  {
+    "modelName": "Apple iPhone 14",
+    "priceINR": 79900,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/IPhone_14_Pro_Max_Purple.svg"
+  },
+  {
+    "modelName": "Samsung Galaxy S22",
+    "priceINR": 69999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Samsung_Galaxy_S22_Ultra.png"
+  },
+  {
+    "modelName": "Samsung Galaxy S23",
+    "priceINR": 74999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Samsung_Galaxy_S23_Ultra.png"
+  },
+  {
+    "modelName": "Google Pixel 6",
+    "priceINR": 59999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/35/Google_Pixel_6.png"
+  },
+  {
+    "modelName": "Google Pixel 7",
+    "priceINR": 59999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/36/Google_Pixel_7.png"
+  },
+  {
+    "modelName": "OnePlus 9",
+    "priceINR": 49999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/4e/OnePlus_9_%28Lunar_White%29.png"
+  },
+  {
+    "modelName": "OnePlus 10 Pro",
+    "priceINR": 64999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/a/a9/OnePlus_10_Pro.png"
+  },
+  {
+    "modelName": "Xiaomi Mi 11",
+    "priceINR": 49999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Xiaomi_Mi_11.png"
+  },
+  {
+    "modelName": "Xiaomi Redmi Note 11",
+    "priceINR": 15999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/1/14/Redmi_Note_11.png"
+  },
+  {
+    "modelName": "Samsung Galaxy Note20",
+    "priceINR": 79999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/7/71/Samsung_Galaxy_Note20.png"
+  },
+  {
+    "modelName": "Motorola Moto G Power (2021)",
+    "priceINR": 13999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Motorola_Moto_G_Power.png"
+  },
+  {
+    "modelName": "Nokia G21",
+    "priceINR": 12999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Nokia_G21.png"
+  },
+  {
+    "modelName": "Sony Xperia 5 III",
+    "priceINR": 59990,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/2/24/Sony_Xperia_5_III.png"
+  },
+  {
+    "modelName": "Asus Zenfone 8",
+    "priceINR": 42999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Asus_Zenfone_8.png"
+  },
+  {
+    "modelName": "Realme 9 Pro+",
+    "priceINR": 24999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/4/43/Realme_9_Pro%2B.png"
+  },
+  {
+    "modelName": "Vivo V23 5G",
+    "priceINR": 31990,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vivo_V23_5G.png"
+  },
+  {
+    "modelName": "Oppo Reno7 Pro",
+    "priceINR": 37990,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Oppo_Reno7_Pro.png"
+  },
+  {
+    "modelName": "Samsung Galaxy A53",
+    "priceINR": 34999,
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Samsung_Galaxy_A53.png"
+  }
+]
